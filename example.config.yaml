@@ -1,0 +1,16 @@
+# config.yaml example
+
+host:
+    url: http://localhost:4000/gh/ # Must end with '/'
+    siteprefix: gh
+
+github:
+    instance: "github.com"
+    api_instance: "api.github.com"
+    client_id: XXXXXXXXXXX
+    client_secret: YYYYYYYYYY
+    
+client:
+    client_id: "testing"
+    client_secret: "testing"
+    redirect_uris: ["http://127.0.0.1:8080/callback"]
