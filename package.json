@@ -1,0 +1,25 @@
+{
+  "name": "authgate-gh",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "engines": {
+    "node": "v12.0.0"
+  },
+  "license": "CC0-1.0",
+  "dependencies": {
+    "jose": "^1.10.1",
+    "js-yaml": "^3.13.1",
+    "koa": "^2.10.0",
+    "koa-ejs": "^4.2.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "node-fetch": "^2.6.0",
+    "oidc-provider": "^6.12.11"
+  }
+}
