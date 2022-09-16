@@ -13,7 +13,7 @@
   },
   "license": "CC0-1.0",
   "dependencies": {
-    "jose": "^1.10.1",
+    "jose": "^1.28.2",
     "js-yaml": "^3.13.1",
     "koa": "^2.10.0",
     "koa-ejs": "^4.2.0",
